@@ -19,5 +19,5 @@ python pulse.py -s [human(h) or mouse(m)] -i input.fa -o out_path
 1. The input sequence should be in one line fasta format.
 2. The 'data' directory contains the results of the paper
 
-If you have any questions, please feel free to contact me,
+If you have any questions, please feel free to contact me,  
 E-mail: he-x15@mails.tsinghua.edu.cn
