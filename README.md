@@ -10,3 +10,6 @@
 * Theano 0.9
 * CUDA 8.0
 ## Usage
+1. Change to the 'model' directory
+2. Use the following command to run PULSE:
+python pulse.py -s [human(h) or mouse(m)] -i input.fa -o out_path
