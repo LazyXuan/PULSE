@@ -1,7 +1,5 @@
-# ${1:Characterizing RNA Pseudouridylation by Convolutional Neural Networks--PULSE model}
+# Characterizing RNA Pseudouridylation by Convolutional Neural Networks--PULSE model
+## Directories
+1. The 'model' directory includes PULSE models and theirs weights and architecture.
 
-# The PULSE model
-
-The 'model' directory includes PULSE models and theirs weights and architecture.
-
-The 'data' directory contains the analysis files we used in the article.
+2. The 'data' directory contains the analysis files we used in the article.
