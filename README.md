@@ -1,4 +1,4 @@
-# Characterizing RNA Pseudouridylation by Convolutional Neural Networks--PULSE model
+# PseudoUridyLation Sites Estimator -- PULSE
 ## Directories
 1. The 'model' directory includes PULSE models and theirs weights and architecture.
 
@@ -15,3 +15,6 @@
 ```
 python pulse.py -s [human(h) or mouse(m)] -i input.fa -o out_path
 ```
+## Notes
+1. The input sequence should be in one line fasta format.
+2. The 'data' directory contains the results of the paper
